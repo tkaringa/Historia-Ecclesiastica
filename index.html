@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historia Ecclesiastica: Travels of Biblical Figures</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="options-panel">
+    <h3>Filters & Options</h3>
+    
+    <label>
+      <input type="text" id="figure-search" placeholder="Search a figure...">
+    </label>
+
+    <div id="figure-filters">
+      <div id="filters-list"></div>
+    </div>
+    
+    <hr class="divider">
+
+    <label>
+      Map Style
+      <select id="map-style">
+        <option value="antique">Antique</option>
+        <option value="satellite">Satellite</option>
+        <option value="street">Street</option>
+      </select>
+    </label>
+    
+    <label style="flex-direction: row; align-items: center;">
+      <input type="checkbox" id="show-trails" checked>
+      Show Trailing Paths
+    </label>
+
+    <label style="flex-direction: row; align-items: center;">
+      <input type="checkbox" id="elastic-timeline" checked>
+      Auto-Bound Timeline
+    </label>
+
+    <label>
+      Playback Speed (Years / Sec)
+      <input type="range" id="speed-slider" min="1" max="100" value="10">
+      <span id="speed-display" style="font-size: 0.8em; align-self: flex-end;">10x</span>
+    </label>
+  </div>
+
+  <div id="chronicle-panel">
+    <h3>Chronicle (<span id="chronicle-year"></span>)</h3>
+    <div id="chronicle-list"></div>
+  </div>
+
+  <div id="timeline-container">
+    <div class="timeline-header">
+      <span id="year-display">1 AD</span>
+    </div>
+    <div class="timeline-controls">
+      <button id="play-btn">Play</button>
+      <input type="range" id="year-slider" step="0.1">
+    </div>
+    <div id="legend"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="script.js"></script>
+</body>
+</html>

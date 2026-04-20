@@ -1,0 +1,357 @@
+[
+  {
+    "id": "abraham",
+    "name": "Abraham",
+    "category": "Patriarchs",
+    "color": "#8c4424",
+    "waypoints": [
+      { "year": -2091, "lat": 30.9500, "lon": 46.1000, "description": "Born in Ur of the Chaldeans", "reference": "Genesis 11:28" },
+      { "year": -2050, "lat": 36.8667, "lon": 39.0333, "description": "Migration to Haran", "reference": "Genesis 11:31" },
+      { "year": -2016, "lat": 32.2130, "lon": 35.2600, "description": "Calling of God to Shechem", "reference": "Genesis 12:6" },
+      { "year": -2015, "lat": 30.0440, "lon": 31.2350, "description": "Sojourn in Egypt due to Famine", "reference": "Genesis 12:10" },
+      { "year": -1996, "lat": 31.5333, "lon": 35.0950, "description": "Settling in Hebron (Oaks of Mamre)", "reference": "Genesis 13:18" },
+      { "year": -1916, "lat": 31.5333, "lon": 35.0950, "description": "Death and Burial in Machpelah", "reference": "Genesis 25:9" }
+    ]
+  },
+  {
+    "id": "moses",
+    "name": "Moses",
+    "category": "Exodus & Prophets",
+    "color": "#4a7e28",
+    "waypoints": [
+      { "year": -1526, "lat": 30.7328, "lon": 31.8156, "description": "Birth in Goshen (Egypt)", "reference": "Exodus 2:1-10" },
+      { "year": -1486, "lat": 28.5330, "lon": 34.0000, "description": "Fleeing to Midian", "reference": "Exodus 2:15" },
+      { "year": -1446, "lat": 30.0440, "lon": 31.2350, "description": "Return to Egypt & The Ten Plagues", "reference": "Exodus 7-12" },
+      { "year": -1445, "lat": 28.5396, "lon": 33.9754, "description": "Receiving the Law at Mount Sinai", "reference": "Exodus 19" },
+      { "year": -1407, "lat": 30.6480, "lon": 34.4260, "description": "Wandering up to Kadesh Barnea", "reference": "Numbers 20:1" },
+      { "year": -1406, "lat": 31.7680, "lon": 35.7190, "description": "Death on Mount Nebo", "reference": "Deuteronomy 34" }
+    ]
+  },
+  {
+    "id": "jesus",
+    "name": "Jesus of Nazareth",
+    "category": "Central Figures",
+    "color": "#c41e3a",
+    "waypoints": [
+      { "year": -4, "lat": 31.7049, "lon": 35.2038, "description": "Birth in Bethlehem", "reference": "Luke 2:4-7" },
+      { "year": -3, "lat": 30.0444, "lon": 31.2357, "description": "Flight to Egypt", "reference": "Matthew 2:13" },
+      { "year": 8, "lat": 32.7019, "lon": 35.3033, "description": "Childhood in Nazareth", "reference": "Matthew 2:23" },
+      { "year": 27, "lat": 31.8390, "lon": 35.5312, "description": "Baptism at Jordan River", "reference": "Matthew 3:13" },
+      { "year": 28, "lat": 32.8806, "lon": 35.5181, "description": "Ministry in Galilee", "reference": "Luke 4" },
+      { "year": 33, "lat": 31.7683, "lon": 35.2137, "description": "Crucifixion and Resurrection in Jerusalem", "reference": "John 19-20" }
+    ]
+  },
+  {
+    "id": "paul",
+    "name": "Apostle Paul",
+    "category": "The Apostles",
+    "color": "#18509c",
+    "waypoints": [
+      { "year": 5, "lat": 36.8000, "lon": 34.6333, "description": "Born in Tarsus", "reference": "Acts 22:3" },
+      { "year": 20, "lat": 31.7683, "lon": 35.2137, "description": "Studying Jewish Law under Gamaliel", "reference": "Acts 22:3" },
+      { "year": 33, "lat": 31.7683, "lon": 35.2137, "description": "Persecuting Early Christians in Judea", "reference": "Acts 8:3" },
+      { "year": 34, "lat": 33.5138, "lon": 36.2765, "description": "Conversion on the Road to Damascus", "reference": "Acts 9:3-6" },
+      { "year": 45, "lat": 36.2021, "lon": 36.1606, "description": "First Missionary Journey from Antioch", "reference": "Acts 13:1-3" },
+      { "year": 51, "lat": 37.9838, "lon": 23.7275, "description": "Preaching at the Areopagus in Athens", "reference": "Acts 17:22-31" },
+      { "year": 60, "lat": 41.9028, "lon": 12.4964, "description": "Imprisonment in Rome", "reference": "Acts 28:16" },
+      { "year": 64, "lat": 41.9028, "lon": 12.4964, "description": "Martyrdom in Rome", "reference": "Church Tradition" }
+    ]
+  },
+  {
+    "id": "peter",
+    "name": "Apostle Peter",
+    "category": "The Apostles",
+    "color": "#e0a126",
+    "waypoints": [
+      { "year": -1, "lat": 32.8806, "lon": 35.5861, "description": "Born in Bethsaida", "reference": "John 1:44" },
+      { "year": 28, "lat": 32.8806, "lon": 35.5861, "description": "Called by Jesus in Galilee", "reference": "Matthew 4:18-20" },
+      { "year": 33, "lat": 31.7683, "lon": 35.2137, "description": "Sermon at Pentecost", "reference": "Acts 2:14" },
+      { "year": 40, "lat": 32.0853, "lon": 34.7818, "description": "Preaching in Joppa and raising Tabitha", "reference": "Acts 9:36-43" },
+      { "year": 45, "lat": 36.2021, "lon": 36.1606, "description": "In Antioch with Paul (Incident at Antioch)", "reference": "Galatians 2:11" },
+      { "year": 62, "lat": 41.9028, "lon": 12.4964, "description": "Establishing ministry in Rome", "reference": "1 Peter 5:13" },
+      { "year": 64, "lat": 41.9028, "lon": 12.4964, "description": "Crucified upside down", "reference": "Clement of Rome" }
+    ]
+  },
+  {
+    "id": "john",
+    "name": "Apostle John",
+    "category": "The Apostles",
+    "color": "#1d944d",
+    "waypoints": [
+      { "year": 10, "lat": 32.8988, "lon": 35.6174, "description": "Born in Bethsaida", "reference": "Mark 1:19" },
+      { "year": 33, "lat": 31.7683, "lon": 35.2137, "description": "Entrusted with Mary at the cross", "reference": "John 19:26-27" },
+      { "year": 50, "lat": 31.7683, "lon": 35.2137, "description": "Council of Jerusalem", "reference": "Acts 15" },
+      { "year": 68, "lat": 37.9497, "lon": 27.3456, "description": "Flees to Ephesus with Mary", "reference": "Irenaeus" },
+      { "year": 95, "lat": 37.3228, "lon": 26.5456, "description": "Exiled to Patmos, receives Revelation", "reference": "Revelation 1:9" },
+      { "year": 100, "lat": 37.9497, "lon": 27.3456, "description": "Death in Ephesus", "reference": "Eusebius" }
+    ]
+  },
+  {
+    "id": "thomas",
+    "name": "Apostle Thomas",
+    "category": "The Apostles",
+    "color": "#8b189c",
+    "waypoints": [
+      { "year": 1, "lat": 32.8806, "lon": 35.5181, "description": "Early Life in Galilee", "reference": "Gospels" },
+      { "year": 33, "lat": 31.7683, "lon": 35.2137, "description": "Encounter with the Risen Christ", "reference": "John 20:24-29" },
+      { "year": 42, "lat": 37.1647, "lon": 38.7939, "description": "Preaching in Edessa region", "reference": "Eusebius" },
+      { "year": 52, "lat": 10.2319, "lon": 76.2120, "description": "Arrival in Muziris, India", "reference": "Saint Thomas Christian Tradition" },
+      { "year": 72, "lat": 13.0336, "lon": 80.2785, "description": "Martyrdom in Mylapore, India", "reference": "Acts of Thomas" }
+    ]
+  },
+  {
+    "id": "jamesjust",
+    "name": "James the Just",
+    "category": "Apostolic Age",
+    "color": "#6e5b2f",
+    "waypoints": [
+      { "year": 5, "lat": 32.7019, "lon": 35.3033, "description": "Raised in Nazareth", "reference": "Mark 6:3" },
+      { "year": 33, "lat": 31.7683, "lon": 35.2137, "description": "Leader in Jerusalem Church", "reference": "Acts 12:17" },
+      { "year": 49, "lat": 31.7683, "lon": 35.2137, "description": "Presides at Council of Jerusalem", "reference": "Acts 15:13-21" },
+      { "year": 62, "lat": 31.7683, "lon": 35.2137, "description": "Martyrdom in Jerusalem", "reference": "Josephus, Antiquities 20.9.1" }
+    ]
+  },
+  {
+    "id": "mark",
+    "name": "Mark the Evangelist",
+    "category": "Apostolic Age",
+    "color": "#2f7d75",
+    "waypoints": [
+      { "year": 12, "lat": 31.7683, "lon": 35.2137, "description": "Family home connected to Jerusalem believers", "reference": "Acts 12:12" },
+      { "year": 45, "lat": 35.1264, "lon": 33.4299, "description": "With Paul and Barnabas in Cyprus", "reference": "Acts 13:5" },
+      { "year": 52, "lat": 35.1264, "lon": 33.4299, "description": "Missions with Barnabas", "reference": "Acts 15:39" },
+      { "year": 61, "lat": 41.9028, "lon": 12.4964, "description": "Present with Paul in Rome", "reference": "Colossians 4:10" },
+      { "year": 68, "lat": 31.2001, "lon": 29.9187, "description": "Tradition of ministry in Alexandria", "reference": "Eusebius" }
+    ]
+  },
+  {
+    "id": "luke",
+    "name": "Luke the Evangelist",
+    "category": "Apostolic Age",
+    "color": "#2b5d9b",
+    "waypoints": [
+      { "year": 20, "lat": 36.2021, "lon": 36.1606, "description": "Likely from Antioch", "reference": "Church Tradition" },
+      { "year": 50, "lat": 41.0082, "lon": 28.9784, "description": "Joins mission in Troas region", "reference": "Acts 16:10" },
+      { "year": 57, "lat": 31.7683, "lon": 35.2137, "description": "Travels with Paul to Jerusalem", "reference": "Acts 21:17" },
+      { "year": 60, "lat": 41.9028, "lon": 12.4964, "description": "With Paul in Roman imprisonment", "reference": "2 Timothy 4:11" },
+      { "year": 62, "lat": 41.9028, "lon": 12.4964, "description": "Composes Luke-Acts tradition", "reference": "Luke 1:1-4" }
+    ]
+  },
+  {
+    "id": "timothy",
+    "name": "Timothy",
+    "category": "Apostolic Age",
+    "color": "#3a6bb0",
+    "waypoints": [
+      { "year": 30, "lat": 37.5730, "lon": 32.4916, "description": "Raised in Lystra", "reference": "Acts 16:1" },
+      { "year": 49, "lat": 37.5730, "lon": 32.4916, "description": "Joins Paul missionary team", "reference": "Acts 16:3" },
+      { "year": 51, "lat": 40.6401, "lon": 22.9444, "description": "Sent to Thessalonica", "reference": "1 Thessalonians 3:2" },
+      { "year": 63, "lat": 37.9497, "lon": 27.3456, "description": "Bishop-like ministry in Ephesus", "reference": "1 Timothy 1:3" },
+      { "year": 80, "lat": 37.9497, "lon": 27.3456, "description": "Martyrdom tradition in Ephesus", "reference": "Foxe / Church Tradition" }
+    ]
+  },
+  {
+    "id": "titus",
+    "name": "Titus",
+    "category": "Apostolic Age",
+    "color": "#5773a2",
+    "waypoints": [
+      { "year": 35, "lat": 36.8065, "lon": 10.1815, "description": "Gentile convert in mission orbit", "reference": "Galatians 2:3" },
+      { "year": 49, "lat": 31.7683, "lon": 35.2137, "description": "At Jerusalem Council as test case", "reference": "Galatians 2:1-3" },
+      { "year": 55, "lat": 37.9838, "lon": 23.7275, "description": "Delegated to Corinth", "reference": "2 Corinthians 8:6" },
+      { "year": 65, "lat": 35.2401, "lon": 24.8093, "description": "Appointed in Crete", "reference": "Titus 1:5" },
+      { "year": 67, "lat": 44.4268, "lon": 26.1025, "description": "Later mission to Dalmatia tradition", "reference": "2 Timothy 4:10" }
+    ]
+  },
+  {
+    "id": "clementrome",
+    "name": "Clement of Rome",
+    "category": "Apostolic Fathers",
+    "color": "#7a3f2e",
+    "waypoints": [
+      { "year": 35, "lat": 41.9028, "lon": 12.4964, "description": "Early life in Rome", "reference": "Church Tradition" },
+      { "year": 68, "lat": 41.9028, "lon": 12.4964, "description": "Leadership among Roman presbyters", "reference": "Irenaeus" },
+      { "year": 96, "lat": 41.9028, "lon": 12.4964, "description": "Writes 1 Clement to Corinth", "reference": "1 Clement" },
+      { "year": 99, "lat": 41.9028, "lon": 12.4964, "description": "Death of Clement tradition", "reference": "Eusebius" }
+    ]
+  },
+  {
+    "id": "ignatius",
+    "name": "Ignatius of Antioch",
+    "category": "Apostolic Fathers",
+    "color": "#9d4f2d",
+    "waypoints": [
+      { "year": 35, "lat": 36.2021, "lon": 36.1606, "description": "Born in Syrian Antioch", "reference": "Church Tradition" },
+      { "year": 70, "lat": 36.2021, "lon": 36.1606, "description": "Bishop of Antioch", "reference": "Eusebius" },
+      { "year": 107, "lat": 41.9028, "lon": 12.4964, "description": "Taken to Rome for martyrdom", "reference": "Letters of Ignatius" },
+      { "year": 107, "lat": 41.9028, "lon": 12.4964, "description": "Martyrdom under Trajan", "reference": "Martyrdom of Ignatius" }
+    ]
+  },
+  {
+    "id": "papias",
+    "name": "Papias of Hierapolis",
+    "category": "Apostolic Fathers",
+    "color": "#6c4f8e",
+    "waypoints": [
+      { "year": 70, "lat": 37.8220, "lon": 29.1290, "description": "Born in Phrygia region", "reference": "Eusebius" },
+      { "year": 100, "lat": 37.8220, "lon": 29.1290, "description": "Bishop in Hierapolis", "reference": "Eusebius" },
+      { "year": 110, "lat": 37.9497, "lon": 27.3456, "description": "Links to Johannine circle", "reference": "Irenaeus" },
+      { "year": 120, "lat": 37.8220, "lon": 29.1290, "description": "Composes Expositions of the Sayings", "reference": "Fragments in Eusebius" }
+    ]
+  },
+  {
+    "id": "polycarp",
+    "name": "Polycarp of Smyrna",
+    "category": "Apostolic Fathers",
+    "color": "#7643b0",
+    "waypoints": [
+      { "year": 69, "lat": 38.4237, "lon": 27.1428, "description": "Born in Smyrna (Modern Izmir)", "reference": "Irenaeus" },
+      { "year": 90, "lat": 38.4237, "lon": 27.1428, "description": "Disciple of Apostle John", "reference": "Irenaeus" },
+      { "year": 154, "lat": 41.9028, "lon": 12.4964, "description": "Travels to Rome to discuss Paschal Controversy with Anicetus", "reference": "Eusebius" },
+      { "year": 155, "lat": 38.4237, "lon": 27.1428, "description": "Martyred by burning at the stake ('Eighty and six years have I served Him')", "reference": "Martyrdom of Polycarp" }
+    ]
+  },
+  {
+    "id": "justin",
+    "name": "Justin Martyr",
+    "category": "Ante-Nicene Teachers",
+    "color": "#3b7a99",
+    "waypoints": [
+      { "year": 100, "lat": 32.2211, "lon": 35.2544, "description": "Born in Flavia Neapolis", "reference": "First Apology" },
+      { "year": 130, "lat": 37.9838, "lon": 23.7275, "description": "Philosophical study and conversion journey", "reference": "Dialogue with Trypho" },
+      { "year": 150, "lat": 41.9028, "lon": 12.4964, "description": "Teaches in Rome, writes Apologies", "reference": "First Apology" },
+      { "year": 165, "lat": 41.9028, "lon": 12.4964, "description": "Martyrdom in Rome", "reference": "Acts of Justin" }
+    ]
+  },
+  {
+    "id": "irenaeus",
+    "name": "Irenaeus of Lyons",
+    "category": "Ante-Nicene Teachers",
+    "color": "#4f8d5f",
+    "waypoints": [
+      { "year": 130, "lat": 38.4237, "lon": 27.1428, "description": "Born in Smyrna", "reference": "Eusebius" },
+      { "year": 150, "lat": 38.4237, "lon": 27.1428, "description": "Formed by Polycarp", "reference": "Against Heresies 3.3.4" },
+      { "year": 177, "lat": 45.7640, "lon": 4.8357, "description": "Ministry in Lyons", "reference": "Eusebius" },
+      { "year": 180, "lat": 45.7640, "lon": 4.8357, "description": "Writes Against Heresies", "reference": "Against Heresies" },
+      { "year": 202, "lat": 45.7640, "lon": 4.8357, "description": "Death in Lyons tradition", "reference": "Jerome, De Viris" }
+    ]
+  },
+  {
+    "id": "tertullian",
+    "name": "Tertullian",
+    "category": "Ante-Nicene Teachers",
+    "color": "#8a5a3b",
+    "waypoints": [
+      { "year": 155, "lat": 36.8065, "lon": 10.1815, "description": "Born in Carthage", "reference": "Jerome" },
+      { "year": 190, "lat": 36.8065, "lon": 10.1815, "description": "Legal-rhetorical Christian writings", "reference": "Apologeticus" },
+      { "year": 210, "lat": 36.8065, "lon": 10.1815, "description": "Develops Trinitarian vocabulary", "reference": "Adversus Praxean" },
+      { "year": 220, "lat": 36.8065, "lon": 10.1815, "description": "Later Montanist alignment", "reference": "Church History" }
+    ]
+  },
+  {
+    "id": "origen",
+    "name": "Origen of Alexandria",
+    "category": "Ante-Nicene Teachers",
+    "color": "#3d8c8c",
+    "waypoints": [
+      { "year": 185, "lat": 31.2001, "lon": 29.9187, "description": "Born in Alexandria", "reference": "Eusebius" },
+      { "year": 203, "lat": 31.2001, "lon": 29.9187, "description": "Heads catechetical school", "reference": "Eusebius 6.3" },
+      { "year": 215, "lat": 40.1872, "lon": 44.5152, "description": "Travels and studies abroad", "reference": "Eusebius" },
+      { "year": 231, "lat": 31.7683, "lon": 35.2137, "description": "Ordained in Caesarea/Palestine sphere", "reference": "Eusebius 6.23" },
+      { "year": 253, "lat": 31.7683, "lon": 35.2137, "description": "Dies after Decian persecution sufferings", "reference": "Eusebius" }
+    ]
+  },
+  {
+    "id": "athanasius",
+    "name": "Athanasius of Alexandria",
+    "category": "Nicene Era",
+    "color": "#2e6f57",
+    "waypoints": [
+      { "year": 296, "lat": 31.2001, "lon": 29.9187, "description": "Born in Alexandria", "reference": "Church History" },
+      { "year": 325, "lat": 40.4300, "lon": 29.7200, "description": "Present at Council of Nicaea", "reference": "Council of Nicaea" },
+      { "year": 328, "lat": 31.2001, "lon": 29.9187, "description": "Becomes Bishop of Alexandria", "reference": "Festal Index" },
+      { "year": 339, "lat": 41.3851, "lon": 2.1734, "description": "Exile years in the West", "reference": "Athanasius, Apologia" },
+      { "year": 367, "lat": 31.2001, "lon": 29.9187, "description": "Festal Letter lists NT canon books", "reference": "Festal Letter 39" },
+      { "year": 373, "lat": 31.2001, "lon": 29.9187, "description": "Death in Alexandria", "reference": "Socrates Scholasticus" }
+    ]
+  },
+  {
+    "id": "basil",
+    "name": "Basil the Great",
+    "category": "Nicene Era",
+    "color": "#4d6d9a",
+    "waypoints": [
+      { "year": 330, "lat": 38.7312, "lon": 35.4787, "description": "Born in Caesarea of Cappadocia", "reference": "Gregory Nazianzen" },
+      { "year": 356, "lat": 37.9838, "lon": 23.7275, "description": "Advanced study in Athens", "reference": "Gregory Nazianzen, Oration 43" },
+      { "year": 370, "lat": 38.7312, "lon": 35.4787, "description": "Bishop of Caesarea", "reference": "Letters of Basil" },
+      { "year": 374, "lat": 38.7312, "lon": 35.4787, "description": "Organizes Basiliad charitable complex", "reference": "Gregory of Nyssa" },
+      { "year": 379, "lat": 38.7312, "lon": 35.4787, "description": "Death in Caesarea", "reference": "Church Tradition" }
+    ]
+  },
+  {
+    "id": "gregorynaz",
+    "name": "Gregory of Nazianzus",
+    "category": "Nicene Era",
+    "color": "#6a5aa6",
+    "waypoints": [
+      { "year": 329, "lat": 38.3728, "lon": 34.0297, "description": "Born near Nazianzus", "reference": "Church Tradition" },
+      { "year": 356, "lat": 37.9838, "lon": 23.7275, "description": "Study period in Athens", "reference": "Oration 43" },
+      { "year": 379, "lat": 41.0082, "lon": 28.9784, "description": "Leads Nicene revival in Constantinople", "reference": "Theological Orations" },
+      { "year": 381, "lat": 41.0082, "lon": 28.9784, "description": "Presides at Council of Constantinople", "reference": "First Council of Constantinople" },
+      { "year": 390, "lat": 38.3728, "lon": 34.0297, "description": "Retires and dies in Cappadocia", "reference": "Carmen de Vita Sua" }
+    ]
+  },
+  {
+    "id": "jerome",
+    "name": "Jerome",
+    "category": "Post-Nicene Fathers",
+    "color": "#8a6a32",
+    "waypoints": [
+      { "year": 347, "lat": 45.8150, "lon": 15.9819, "description": "Born in Stridon region", "reference": "Jerome, De Viris" },
+      { "year": 382, "lat": 41.9028, "lon": 12.4964, "description": "Serves in Rome", "reference": "Letters of Jerome" },
+      { "year": 386, "lat": 31.7054, "lon": 35.2024, "description": "Settles in Bethlehem monastery", "reference": "Letters of Jerome" },
+      { "year": 405, "lat": 31.7054, "lon": 35.2024, "description": "Completes Latin Vulgate translation", "reference": "Vulgate Prologues" },
+      { "year": 420, "lat": 31.7054, "lon": 35.2024, "description": "Death in Bethlehem", "reference": "Church History" }
+    ]
+  },
+  {
+    "id": "ambrose",
+    "name": "Ambrose of Milan",
+    "category": "Post-Nicene Fathers",
+    "color": "#7b4f6f",
+    "waypoints": [
+      { "year": 340, "lat": 45.4384, "lon": 12.3271, "description": "Born in Trier/Roman administrative family", "reference": "Paulinus, Vita Ambrosii" },
+      { "year": 370, "lat": 45.4642, "lon": 9.1900, "description": "Governor in Milan", "reference": "Paulinus" },
+      { "year": 374, "lat": 45.4642, "lon": 9.1900, "description": "Chosen Bishop of Milan", "reference": "Paulinus" },
+      { "year": 386, "lat": 45.4642, "lon": 9.1900, "description": "Defends Nicene faith against imperial pressure", "reference": "Letters of Ambrose" },
+      { "year": 397, "lat": 45.4642, "lon": 9.1900, "description": "Death in Milan", "reference": "Paulinus" }
+    ]
+  },
+  {
+    "id": "augustine",
+    "name": "Augustine of Hippo",
+    "category": "Post-Nicene Fathers",
+    "color": "#a86d2a",
+    "waypoints": [
+      { "year": 354, "lat": 36.2750, "lon": 8.0069, "description": "Born in Thagaste (Modern Algeria)", "reference": "Confessions" },
+      { "year": 370, "lat": 36.8065, "lon": 10.1815, "description": "Studies rhetoric in Carthage", "reference": "Confessions Book III" },
+      { "year": 383, "lat": 41.9028, "lon": 12.4964, "description": "Moves to Rome to teach", "reference": "Confessions Book V" },
+      { "year": 386, "lat": 45.4642, "lon": 9.1900, "description": "Moves to Milan, meets Ambrose, converts 'Tolle Lege'", "reference": "Confessions Book VIII" },
+      { "year": 395, "lat": 36.9000, "lon": 7.7666, "description": "Becomes Bishop of Hippo Regius", "reference": "Possidius" },
+      { "year": 430, "lat": 36.9000, "lon": 7.7666, "description": "Dies in Hippo during the Vandal Siege", "reference": "Possidius" }
+    ]
+  },
+  {
+    "id": "chrysostom",
+    "name": "John Chrysostom",
+    "category": "Post-Nicene Fathers",
+    "color": "#3f6d8a",
+    "waypoints": [
+      { "year": 349, "lat": 36.2021, "lon": 36.1606, "description": "Born in Antioch", "reference": "Palladius" },
+      { "year": 386, "lat": 36.2021, "lon": 36.1606, "description": "Renowned preacher in Antioch", "reference": "Homilies on Matthew" },
+      { "year": 398, "lat": 41.0082, "lon": 28.9784, "description": "Archbishop of Constantinople", "reference": "Church History" },
+      { "year": 404, "lat": 41.0082, "lon": 28.9784, "description": "First exile", "reference": "Palladius, Dialogue" },
+      { "year": 407, "lat": 42.7211, "lon": 44.0000, "description": "Dies in exile en route to Pityus", "reference": "Palladius" }
+    ]
+  }
+]
