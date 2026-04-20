@@ -95,8 +95,70 @@
       { "year": 1, "lat": 32.8806, "lon": 35.5181, "description": "Early Life in Galilee", "reference": "Gospels" },
       { "year": 33, "lat": 31.7683, "lon": 35.2137, "description": "Encounter with the Risen Christ", "reference": "John 20:24-29" },
       { "year": 42, "lat": 37.1647, "lon": 38.7939, "description": "Preaching in Edessa region", "reference": "Eusebius" },
-      { "year": 52, "lat": 10.2319, "lon": 76.2120, "description": "Arrival in Muziris, India", "reference": "Saint Thomas Christian Tradition" },
-      { "year": 72, "lat": 13.0336, "lon": 80.2785, "description": "Martyrdom in Mylapore, India", "reference": "Acts of Thomas" }
+      { "year": 52, "lat": 10.2319, "lon": 76.2120, "description": "Arrival in Muziris, Malabar", "reference": "Nasrani Foundation Timeline" },
+      { "year": 72, "lat": 13.0336, "lon": 80.2785, "description": "Martyrdom in Mylapore", "reference": "Nasrani Foundation Timeline" }
+    ]
+  },
+  {
+    "id": "nasrani_community",
+    "name": "Mar Thoma Nasrani Community",
+    "category": "Nasrani Tradition",
+    "color": "#b2472f",
+    "waypoints": [
+      { "year": 52, "lat": 10.2319, "lon": 76.2120, "description": "Community founded in Malabar through Apostle Thomas mission", "reference": "Nasrani Foundation Timeline" },
+      { "year": 72, "lat": 13.0336, "lon": 80.2785, "description": "Thomas martyrdom at Mylapore; shrine becomes pilgrimage center", "reference": "Nasrani Foundation Timeline" },
+      { "year": 410, "lat": 33.0980, "lon": 44.5800, "description": "Synod of Seleucia-Ctesiphon and East-Syriac linkage", "reference": "Synod of Mar Isaac; Nasrani Foundation" },
+      { "year": 649, "lat": 33.3152, "lon": 44.3661, "description": "India (Beth Hindaye) affirmed as a Metropolitan province", "reference": "Isho'Yahb III letters; Nasrani Foundation" },
+      { "year": 825, "lat": 8.8932, "lon": 76.6141, "description": "Kollam era begins with church-building phase", "reference": "Nasrani Foundation Timeline" },
+      { "year": 849, "lat": 8.8932, "lon": 76.6141, "description": "Tarisa Palli copper-plate privileges granted", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1301, "lat": 10.2220, "lon": 76.2000, "description": "Metropolitan Mar Jacob at Kodungalloor", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1490, "lat": 37.3276, "lon": 42.1901, "description": "Malabar delegation reaches Patriarch Mar Simeon IV at Gazarta", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1503, "lat": 33.3152, "lon": 44.3661, "description": "Patriarch Mar Elias consecrates bishops for India", "reference": "Nasrani Foundation Timeline" }
+    ]
+  },
+  {
+    "id": "mar_david_basra",
+    "name": "Mar David of Basra",
+    "category": "Nasrani Tradition",
+    "color": "#7a5a2d",
+    "waypoints": [
+      { "year": 295, "lat": 30.5085, "lon": 47.7804, "description": "Leaves Basra (Maishan) for mission", "reference": "Chronicle of Seert; Nasrani Foundation" },
+      { "year": 300, "lat": 10.2319, "lon": 76.2120, "description": "Mission journey recorded toward India", "reference": "Chronicle of Seert; Nasrani Foundation" }
+    ]
+  },
+  {
+    "id": "mar_sabor_afroth",
+    "name": "Mar Sabor and Mar Afroth",
+    "category": "Nasrani Tradition",
+    "color": "#8e3d3d",
+    "waypoints": [
+      { "year": 824, "lat": 29.3759, "lon": 47.9774, "description": "Departure from Persian sphere with immigrant Christians", "reference": "Nasrani Foundation Timeline" },
+      { "year": 825, "lat": 8.8932, "lon": 76.6141, "description": "Arrival at Quilon (Kollam), known locally as Kantheesangal", "reference": "Nasrani Foundation Timeline" },
+      { "year": 849, "lat": 8.8932, "lon": 76.6141, "description": "Associated with Tarisa Palli grants and church-building legacy", "reference": "Nasrani Foundation Timeline" }
+    ]
+  },
+  {
+    "id": "daniel_indian",
+    "name": "Daniel the Indian",
+    "category": "Nasrani Tradition",
+    "color": "#556b2f",
+    "waypoints": [
+      { "year": 425, "lat": 10.2319, "lon": 76.2120, "description": "Indian priest linked to Syriac scholarly exchange", "reference": "Nasrani Foundation Timeline" },
+      { "year": 425, "lat": 28.9730, "lon": 50.8360, "description": "Aids Mar Komai in translation work with Fars church", "reference": "Nasrani Foundation Timeline" }
+    ]
+  },
+  {
+    "id": "joseph_indian",
+    "name": "Joseph the Indian",
+    "category": "Nasrani Tradition",
+    "color": "#3f5a87",
+    "waypoints": [
+      { "year": 1490, "lat": 10.2220, "lon": 76.2000, "description": "Departs Malabar in delegation seeking bishops", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1490, "lat": 37.3276, "lon": 42.1901, "description": "Meets Patriarch Mar Simeon IV in Gazarta", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1492, "lat": 33.3152, "lon": 44.3661, "description": "Returns with Mar Thomas to Babylon", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1500, "lat": 38.7223, "lon": -9.1393, "description": "Travels to Portugal", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1501, "lat": 41.9028, "lon": 12.4964, "description": "Visits Rome and meets Pope Alexander VI", "reference": "Nasrani Foundation Timeline" },
+      { "year": 1503, "lat": 33.3152, "lon": 44.3661, "description": "Linked to consecration mission from Patriarch Mar Elias", "reference": "Nasrani Foundation Timeline" }
     ]
   },
   {
