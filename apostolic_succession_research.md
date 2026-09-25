@@ -8,7 +8,7 @@
 
 ### Purpose
 
-This document traces apostolic succession—the unbroken transmission of apostolic authority through ordination by bishops in direct lineage to Christ's apostles—from the apostolic era through the eve of the 1054 East–West schism. It serves scholars, Eastern Catholic communities, and ecumenical researchers seeking reliable, source-grounded evidence for apostolic legitimacy across all Catholic rites (Latin, Byzantine, Antiochian, Alexandrian, East Syriac, Armenian, and Maronite).
+This document traces apostolic succession, the unbroken transmission of apostolic authority through ordination by bishops in direct lineage to Christ's apostles, from the apostolic era through the eve of the 1054 East–West schism. It serves scholars, Eastern Catholic communities, and ecumenical researchers seeking reliable, source-grounded evidence for apostolic legitimacy across all Catholic rites (Latin, Byzantine, Antiochian, Alexandrian, East Syriac, Armenian, and Maronite).
 
 ### Methodology & Source Grading
 
@@ -38,7 +38,7 @@ The **four great patriarchal sees** coalesced by AD 100:
 3. **Alexandria** (Mark)
 4. **Jerusalem** (James, community of Jewish disciples)
 
-By AD 325 (Council of Nicaea), these sees held preeminent honor. By AD 451 (Council of Chalcedon), a fifth patriarchate—**Constantinople**—was recognized, though all remained in full apostolic communion until 1054.
+By AD 325 (Council of Nicaea), these sees held preeminent honor. By AD 451 (Council of Chalcedon), a fifth patriarchate, **Constantinople**, was recognized, though all remained in full apostolic communion until 1054.
 
 The **East Syriac/Thomasine tradition** (St. Thomas to India, ca. 52 AD onward) represents an equally ancient apostolic lineage, independent in geography and liturgy yet recognized by the early Church as legitimate and apostolic. This line, preserved in the Syro-Malabar and Chaldean Catholic traditions, deserves equal theological weight in any ecumenical apostolic succession narrative.
 
@@ -321,13 +321,13 @@ Unlike the Mediterranean sees with a single chief bishop in each city, the East 
 For India specifically:
 - **Maphrian of the Indians** (metro-bishop overseeing Indian churches, title emerged in medieval period but represents ancient structure)
 - **Bishops** (episkopos) presiding over local communities
-- **Priests** (khanaya) and **deacons** (shamasha)—all ordained through apostolic succession with laying-on-of-hands
+- **Priests** (khanaya) and **deacons** (shamasha), all ordained through apostolic succession with laying-on-of-hands
 - **Scholars/scribes** (sophra) maintaining scriptural and liturgical knowledge
 
-This **parallel apostolic structure**—though not identical to Rome–Antioch–Alexandria–Jerusalem patriarchal model—represents an equally valid apostolic succession, rooted in Thomas's apostolic ordination and preserved through unbroken ecclesiastical continuity.
+This **parallel apostolic structure**, though not identical to Rome–Antioch–Alexandria–Jerusalem patriarchal model, represents an equally valid apostolic succession, rooted in Thomas's apostolic ordination and preserved through unbroken ecclesiastical continuity.
 
 **Vatican II Recognition:**  
-Vatican II *Orientalium Ecclesiarum* and *Unitatis Redintegratio* acknowledge Eastern Churches' full apostolic succession: "These Churches, although separated from us, possess true sacraments, above all by apostolic succession, the priesthood and the Eucharist" (*Unitatis Redintegratio* sec. 15). The Syro-Malabar Catholic Church and Chaldean Catholic Church—modern Catholic expressions of the Thomasine legacy—are recognized as **in full communion with Rome** and as possessing **valid apostolic succession**.
+Vatican II *Orientalium Ecclesiarum* and *Unitatis Redintegratio* acknowledge Eastern Churches' full apostolic succession: "These Churches, although separated from us, possess true sacraments, above all by apostolic succession, the priesthood and the Eucharist" (*Unitatis Redintegratio* sec. 15). The Syro-Malabar Catholic Church and Chaldean Catholic Church, modern Catholic expressions of the Thomasine legacy, are recognized as **in full communion with Rome** and as possessing **valid apostolic succession**.
 
 **Source Grade for Thomasine Line**: [Early Tradition: Eusebius; Liturgical Witness: East Syriac rite, Syro-Malabar ordinal rites, Chaldean Catholic canon; Contested apocrypha but historically plausible]
 
@@ -346,7 +346,7 @@ The ecumenical councils transformed apostolic succession from informal testimony
 
 ### Council of Ephesus (431 AD) & Christological Apostolicity
 
-**Council Significance**: Defended Mary as *Theotokos* (God-bearer) and reaffirmed apostolic witness to Christ's divinity and humanity. The gathered bishops—expressing apostolic authority transmitted through succession—authoritatively taught Marian doctrine as apostolic tradition, not innovation.
+**Council Significance**: Defended Mary as *Theotokos* (God-bearer) and reaffirmed apostolic witness to Christ's divinity and humanity. The gathered bishops, expressing apostolic authority transmitted through succession, authoritatively taught Marian doctrine as apostolic tradition, not innovation.
 
 **Participants**:
 - Cyril of Alexandria (great-grandson in apostolic lineage from Mark)
@@ -403,7 +403,7 @@ This council demonstrates that by the 5th century, **apostolic succession enable
 
 - **Apostolic position**: Bishop of Constantinople (398–404 AD)
 - **Role**: Premier homilist and biblical interpreter; defender of apostolic moral theology
-- **Significance**: Affirmed that apostolic succession conferred not just sacramental but **moral and pedagogical authority**—teaching the faith faithfully, holily disciplining the flock
+- **Significance**: Affirmed that apostolic succession conferred not just sacramental but **moral and pedagogical authority**, teaching the faith faithfully, holily disciplining the flock
 - **Source Grade**: [Patristic: Chrysostom's extensive surviving homilies and letters]
 
 ---
@@ -502,7 +502,7 @@ All five major rites retained **valid apostolic succession** despite christologi
 ### Tensions Without Rupture
 
 By the 11th century, tensions had accumulated:
-- **Filioque** controversy (Latin: "and the Son")—whether the Holy Spirit proceeded from the Father alone or from Father "and the Son"
+- **Filioque** controversy (Latin: "and the Son"), whether the Holy Spirit proceeded from the Father alone or from Father "and the Son"
 - **Papal primacy**: Rome increasingly asserted universal jurisdiction; Constantinople and other Eastern patriarchs resisted
 - **Liturgical differences**: Leavened vs. unleavened bread for Eucharist became symbolic flashpoint
 - **Language barriers**: Latin vs. Greek (and Syriac, Coptic, Armenian, etc.) made communication difficult
@@ -514,7 +514,7 @@ Even amid these tensions, **apostolic succession was never questioned**. No patr
 
 ### The Non-Rupture of Apostolic Succession at 1054
 
-When Cardinal Humbert placed a bull of excommunication on the altar of Hagia Sophia in Constantinople (1054 AD), the **formal schism was declared**—but apostolic succession was **not severed**. Both the Latin West and Greek East continued to:
+When Cardinal Humbert placed a bull of excommunication on the altar of Hagia Sophia in Constantinople (1054 AD), the **formal schism was declared**, but apostolic succession was **not severed**. Both the Latin West and Greek East continued to:
 - Ordain bishops through apostolic laying-on-of-hands
 - Recognize one another's earlier, pre-schism ordinations as valid
 - Maintain baptismal, eucharistic, and episcopal succession structures
@@ -753,7 +753,7 @@ Peter → Linus → Clement → Evaristus → Alexander → Sixtus I → Telesph
 
 ### Core Theological Truth
 
-**Apostolic succession** is not a static historical fact but a **living ecclesial reality**: the Holy Spirit acting through ordained bishops to transmit the faith, the sacraments, and pastoral authority from generation to generation. From Christ's commissioning of the Twelve through Pentecost, through the great sees of antiquity (Rome, Antioch, Alexandria, Jerusalem), through the patriarchal diversities of East and West, through persecutions and councils and theological controversies—**apostolic succession has endured as the sign of the Church's continuity and legitimacy**.
+**Apostolic succession** is not a static historical fact but a **living ecclesial reality**: the Holy Spirit acting through ordained bishops to transmit the faith, the sacraments, and pastoral authority from generation to generation. From Christ's commissioning of the Twelve through Pentecost, through the great sees of antiquity (Rome, Antioch, Alexandria, Jerusalem), through the patriarchal diversities of East and West, through persecutions and councils and theological controversies, **apostolic succession has endured as the sign of the Church's continuity and legitimacy**.
 
 ### Pre-Schism Unity (AD 30–1054)
 
@@ -778,9 +778,9 @@ Vatican II's **Unitatis Redintegratio** (Decree on Ecumenism) and **Orientalium 
 
 ### The Living Reality
 
-Apostolic succession is not merely historical; it is **pneumatological** (animated by the Holy Spirit). Every bishop ordained in valid succession carries not just a historical chain but the **living mandate to teach, sanctify, and shepherd**—the same mandate Christ gave to Peter: "Feed my lambs, feed my sheep" (Jn 21:15–17).
+Apostolic succession is not merely historical; it is **pneumatological** (animated by the Holy Spirit). Every bishop ordained in valid succession carries not just a historical chain but the **living mandate to teach, sanctify, and shepherd**, the same mandate Christ gave to Peter: "Feed my lambs, feed my sheep" (Jn 21:15–17).
 
-This document attests to that living continuity: from the Apostles' laying-on-of-hands, through Linus and Mark and Evodius and Thomas, through Ignatius, Polycarp, and the Fathers, through dark persecutions and glorious councils, through the flourishing of diverse rites and traditions—**apostolic succession abides**.
+This document attests to that living continuity: from the Apostles' laying-on-of-hands, through Linus and Mark and Evodius and Thomas, through Ignatius, Polycarp, and the Fathers, through dark persecutions and glorious councils, through the flourishing of diverse rites and traditions, **apostolic succession abides**.
 
 ---
 
