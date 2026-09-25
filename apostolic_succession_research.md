@@ -30,7 +30,7 @@ Each succession claim is tagged with a **confidence badge** indicating the weigh
 
 ### Key Context: Apostolic Authority & the Early Sees
 
-Following Christ's resurrection and the Pentecostal outpouring, the apostles were commissioned: "As the Father has sent me, so I send you" (John 20:21). Christ chose twelve to form the foundational college, with Peter as "rock" (Matthew 16:18). The apostles, in turn, ordained successors to ensure continuity of teaching, sacramental authority, and pastoral governance. By the 2nd century, this succession become formalized into a threefold ministry: apostle → bishop (episkopos) → successor bishop.
+Following Christ's resurrection and the Pentecostal outpouring, the apostles were commissioned: "As the Father has sent me, so I send you" (John 20:21). Christ chose twelve to form the foundational college, with Peter as "rock" (Matthew 16:18). The apostles, in turn, ordained successors to ensure continuity of teaching, sacramental authority, and pastoral governance. By the 2nd century, this succession become formalized into a threefold ministry: apostle > bishop (episkopos) > successor bishop.
 
 The **four great patriarchal sees** coalesced by AD 100:
 1. **Rome** (Peter & Paul)
@@ -128,7 +128,7 @@ Christ selected twelve apostles to be witnesses of his resurrection and minister
 #### **Thomas (Didymus, "the Twin")**  
 **[Scripture: Jn 11:16, 14:5, 20:24–28; Mt 10:3]**
 
-- **Assignment**: Apostle; prominent in John's Gospel (doubter→confessor, Jn 20:28: "My Lord and my God").
+- **Assignment**: Apostle; prominent in John's Gospel (doubter>confessor, Jn 20:28: "My Lord and my God").
 - **Mission**: **India (Malabar coast); foundational to East Syriac/Thomasine/Nasrani tradition (ca. 52 AD onward).**  
   [See Part III: East Syriac/Thomasine Line]
 - **Rite significance**: Central to Syro-Malabar Catholic, Chaldean Catholic, and East Syriac tradition; claimed as founder by India's ancient Christian communities; equal apostolic weight to Mediterranean apostles; martyrdom tradition (Mylapore, India; Eusebius mentions Indian mission; *Acts of Thomas* tradition).
@@ -361,7 +361,7 @@ This council demonstrates that by the 5th century, **apostolic succession enable
 #### Athanasius of Alexandria (ca. 296–373 AD)
 **[Patristic: Eusebius, Jerome, Socrates *Ecclesiastical History*; contemporary letters]**
 
-- **Apostolic position**: Bishop of Alexandria (328–373 AD), in direct succession from Mark → Anianus → ... → Athanasius
+- **Apostolic position**: Bishop of Alexandria (328–373 AD), in direct succession from Mark > Anianus > ... > Athanasius
 - **Role**: Defender of Nicene orthodoxy against Arianism ("Athanasius against the world")
 - **Significance**: Embodied apostolic authority to teach, defend, and define doctrine; his exile and restoration demonstrated that apostolic succession carried magisterial (teaching) authority
 - **Source Grade**: [Patristic: Direct contemporary sources]
@@ -558,7 +558,7 @@ This is why Vatican II could affirm: "These Churches, although separated from us
 
 2. **Irenaeus of Lyons**, *Against Heresies* Book III, Section 3 (NPNF series online)
    - Late 2nd century foundational apostolic succession argument
-   - Cited for: Rome succession (Peter → Linus → Clement), necessity of apostolic succession for doctrinal authority
+   - Cited for: Rome succession (Peter > Linus > Clement), necessity of apostolic succession for doctrinal authority
 
 3. **Jerome**, *De Viris Illustribus* (Lives of Illustrious Men; NPNF series, also facing-page Latin/English editions)
    - 4th century biographical encyclopedia of apostolic succession figures
@@ -603,7 +603,7 @@ This is why Vatican II could affirm: "These Churches, although separated from us
 ### Roman (Latin Rite) Succession (AD 30–1054)
 
 **Patriarchal Line**:  
-Peter → Linus → Clement → Evaristus → Alexander → Sixtus I → Telesphorus → Hyginus → Pius I → Anicetus → Soter → Eleutherus → Victor I → Zephyrinus → Callixtus I → Urban I → Pontian...→ Pope Nicholas I (858–867)...→ Pope Leo IX (1049–1054)
+Peter > Linus > Clement > Evaristus > Alexander > Sixtus I > Telesphorus > Hyginus > Pius I > Anicetus > Soter > Eleutherus > Victor I > Zephyrinus > Callixtus I > Urban I > Pontian...> Pope Nicholas I (858–867)...> Pope Leo IX (1049–1054)
 
 **Guardian Bishops in Latin West**:
 - **Ambrose of Milan** (374–397): Defender of apostolic discipline in imperial court
@@ -626,11 +626,11 @@ Peter → Linus → Clement → Evaristus → Alexander → Sixtus I → Telesph
 **Constantinople** (AD 330+):
 - Andrew (apostle; tradition assigns founding, though historically Anna- stasis [Hagia Sophia] construction was 6th century under Justinian)
 - Alexander of Constantinople (early bishop, though records uncertain before 4th century)
-- Alexander I → Nicholas of Myra (contemporary, 4th century) → ...→ Photius I (858–886, great defender of Eastern theology)...→ Cerularius (patriarch at 1054 schism)
+- Alexander I > Nicholas of Myra (contemporary, 4th century) > ...> Photius I (858–886, great defender of Eastern theology)...> Cerularius (patriarch at 1054 schism)
 
 **Alexandria** (AD 40+):  
 - Mark (apostle; Gospel author; 1st century)
-- Anianus → Avilius → ... → Athanasius (328–373; great anti-Arian figure)...→ Patriarchs continuing to 1054
+- Anianus > Avilius > ... > Athanasius (328–373; great anti-Arian figure)...> Patriarchs continuing to 1054
 
 **Antioch** (AD 40+):  
 - Peter & Evodius (apostles)
@@ -658,7 +658,7 @@ Peter → Linus → Clement → Evaristus → Alexander → Sixtus I → Telesph
 **Patriarchal See: Alexandria**
 
 - Mark (apostle; 1st century)
-- Anianus → Avilius → [succession through later centuries]
+- Anianus > Avilius > [succession through later centuries]
 - **Cyril of Alexandria** (412–444): Great defender of Marian "Theotokos" doctrine and anti-Nestorian champion; also founder of Coptic rite's theological character
 - **Dioscorus I** (444–454): Defender at Council of Ephesus II (449; later rejected by Chalcedon as "Robber Council")
 - **Patriarchs succeeding to 1054**: Coptic Church maintained independent apostolic succession despite non-Chalcedonian christology
